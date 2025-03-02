@@ -7,7 +7,7 @@
 #### Question 1
 - **Lesson:** Explaining Developer Efficiency Through High Productivity Tools
 - **Type:** multiselect (Code: 3)
-- **Question:** Which of the following affirmations are correct?
+- **Question:** ### Which of the following affirmations are correct?
 **Options:**
   - ❌ When building complex applications, professional developers must write custom code from scratch.
   - ✅ Pre-built content, such as code components and templates can be used to speed up application development of any complexity.
@@ -20,7 +20,7 @@
 #### Question 2
 - **Lesson:** Introducing SAP Business Application Studio
 - **Type:** singleselect (Code: 2)
-- **Question:** What is SAP Business Application Studio?
+- **Question:** ### What is SAP Business Application Studio?
 **Options:**
   - ❌ A Microsoft Visual Studio Code extension
   - ✅  A browser-based development environment
@@ -33,7 +33,7 @@
 #### Question 3
 - **Lesson:** Introducing SAP Business Application Studio
 - **Type:** singleselect (Code: 2)
-- **Question:** In SAP Business Application Studio, how many dev space types are available?
+- **Question:** ### In SAP Business Application Studio, how many dev space types are available?
 **Options:**
   - ❌ 5
   - ❌ 4
@@ -46,7 +46,7 @@
 #### Question 4
 - **Lesson:** Introducing SAP Business Application Studio
 - **Type:** multiselect (Code: 3)
-- **Question:** What does the SAP Business Application Studio provide, at a glance?
+- **Question:** ### What does the SAP Business Application Studio provide, at a glance?
 **Options:**
   - ✅ A managed, preconfigured, hosted environment, optimized for SAP application development.
   - ✅ Integrates with existing SAP solutions, systems, and services.
@@ -58,7 +58,7 @@
 #### Question 5
 - **Lesson:** Setting Up Your Account for Full-Stack Application Development using Productivity Tools in SAP Business Application Studio
 - **Type:** singleselect (Code: 2)
-- **Question:** Which role is needed to be able create a new subaccount?
+- **Question:** ### Which role is needed to be able create a new subaccount?
 **Options:**
   - ✅ Global Account Administrator
   - ❌ Launchpad_Admin
@@ -71,7 +71,7 @@
 #### Question 6
 - **Lesson:** Setting Up Your Account for Full-Stack Application Development using Productivity Tools in SAP Business Application Studio
 - **Type:** singleselect (Code: 2)
-- **Question:** Is it possible to configure an account without using a booster?
+- **Question:** ### Is it possible to configure an account without using a booster?
 **Options:**
   - ✅ Yes, it will just require more time and administration effort. A booster automates the steps for you and ensures a consistent configuration.
   - ❌ No, the booster includes configuration steps that cannot be done manually.
@@ -82,7 +82,7 @@
 #### Question 7
 - **Lesson:** Setting Up Your Account for Full-Stack Application Development using Productivity Tools in SAP Business Application Studio
 - **Type:** singleselect (Code: 2)
-- **Question:** Is it possible to apply a booster to an existing account?
+- **Question:** ### Is it possible to apply a booster to an existing account?
 **Options:**
   - ❌ No, you always have to create a new subaccount from scratch.
   - ✅ Yes, you can select an existing subaccount, and configure it to your needs as well.
@@ -93,7 +93,7 @@
 #### Question 8
 - **Lesson:** Getting Started with SAP Business Application Studio Development Environment
 - **Type:** singleselect (Code: 2)
-- **Question:** What is the inactivity time after which the dev spaces are stopped?
+- **Question:** ### What is the inactivity time after which the dev spaces are stopped?
 **Options:**
   - ✅  3 hours in productive landscapes, 1 hour in trial and free-tier
   - ❌ 2 hours in productive landscapes, 1 hour in trial and free-tier
@@ -105,7 +105,7 @@
 #### Question 9
 - **Lesson:** Taking a Tour of SAP Business Application Studio
 - **Type:** singleselect (Code: 2)
-- **Question:** If you would like to find a data model you have created a while ago in your Full-Stack with Productivity Tools project, where would be the best place to do that?
+- **Question:** ### If you would like to find a data model you have created a while ago in your Full-Stack with Productivity Tools project, where would be the best place to do that?
 **Options:**
   - ✅ Storyboard
   - ❌ File explorer
@@ -116,7 +116,7 @@
 #### Question 10
 - **Lesson:** Taking a Tour of SAP Business Application Studio
 - **Type:** singleselect (Code: 2)
-- **Question:** Where would be the best place to search for an external SAP service to add to your application (for example, SAP S/4HANA service)?
+- **Question:** ### Where would be the best place to search for an external SAP service to add to your application (for example, SAP S/4HANA service)?
 **Options:**
   - ❌ The file explorer
   - ❌ The Storyboard
@@ -133,7 +133,7 @@
 #### Question 1
 - **Lesson:** Introducing the Use Case and Architecture of the Application
 - **Type:** multiselect (Code: 3)
-- **Question:** Which options and runtime environments are available in SAP Business Application Studio?
+- **Question:** ### Which options and runtime environments are available in SAP Business Application Studio?
 **Options:**
   - ❌ SAP BTP, C++ Runtime
   - ✅ SAP BTP, ABAP Environment
@@ -146,7 +146,7 @@
 #### Question 2
 - **Lesson:** Introducing the Use Case and Architecture of the Application
 - **Type:** singleselect (Code: 2)
-- **Question:** In this training, you create a risk management application. Which tools are used?
+- **Question:** ### In this training, you create a risk management application. Which tools are used?
 **Options:**
   - ❌ For the front end, SAP Fiori, and for the back-end, the Data Dictionary is used.
   - ✅ For the front end, SAP Fiori, and for the back-end, SAP Cloud Application Programming Model (CAP) is used.
@@ -158,7 +158,7 @@
 #### Question 3
 - **Lesson:** Creating a New Project
 - **Type:** truefalse (Code: 1)
-- **Question:** To create a new project, you use the Create Project button from the Builder tool.
+- **Question:** ### To create a new project, you use the Create Project button from the Builder tool.
 **Options:**
   - ❌ True
   - ✅ False
@@ -169,7 +169,7 @@
 #### Question 4
 - **Lesson:** Creating a Data Model
 - **Type:** singleselect (Code: 2)
-- **Question:** In the exercise Create a Data Model, you have created the following data models:
+- **Question:** ### In the exercise Create a Data Model, you have created the following data models:
 **Options:**
   - ❌ Risks and Wins
   - ✅ Risks and Mitigations
@@ -181,7 +181,7 @@
 #### Question 5
 - **Lesson:** Defining Services
 - **Type:** singleselect (Code: 2)
-- **Question:** In the context of defining services in SAP Business Application Studio, what does "draft editing" mean?
+- **Question:** ### In the context of defining services in SAP Business Application Studio, what does "draft editing" mean?
 **Options:**
   - ❌ A draft is a final version of a business entity that has been archived
   - ✅ A draft is a temporary version of a business entity that has not yet been explicitly saved as an active version
@@ -194,7 +194,7 @@
 #### Question 6
 - **Lesson:** Consuming an External Service From SAP S/4HANA
 - **Type:** singleselect (Code: 2)
-- **Question:** In the exercise Consume an External Service from SAP S/4HANA a relationship is used. It is of what type and what Multiplicity is used? 
+- **Question:** ### In the exercise Consume an External Service from SAP S/4HANA a relationship is used. It is of what type and what Multiplicity is used? 
 **Options:**
   - ❌ Association, to-multiple
   - ✅ Association, to-one
@@ -206,7 +206,7 @@
 #### Question 7
 - **Lesson:** Adding Sample Data
 - **Type:** singleselect (Code: 2)
-- **Question:** How many rows are added for business partner in the exercise "Add Sample Data"?
+- **Question:** ### How many rows are added for business partner in the exercise "Add Sample Data"?
 **Options:**
   - ✅ 3
   - ❌ 6
@@ -218,7 +218,7 @@
 #### Question 8
 - **Lesson:** Building the User Interface with SAP Fiori Tools
 - **Type:** singleselect (Code: 2)
-- **Question:** Which UI Application Type is used in the Exercise Create a Responsive Application User Interface? 
+- **Question:** ### Which UI Application Type is used in the Exercise Create a Responsive Application User Interface? 
 **Options:**
   - ✅ Template-Based, Responsive Application
   - ❌ List-Based, Responsive Application
@@ -230,7 +230,7 @@
 #### Question 9
 - **Lesson:** Previewing Your Application
 - **Type:** singleselect (Code: 2)
-- **Question:** When previewing your application in SAP Business Application Studio, which of the following options allows you to verify the behavior of your app during runtime?
+- **Question:** ### When previewing your application in SAP Business Application Studio, which of the following options allows you to verify the behavior of your app during runtime?
 **Options:**
   - ❌ Using the command palette to open a terminal.
   - ✅ Previewing the application by selecting the Run and Debug button. 
@@ -242,7 +242,7 @@
 #### Question 10
 - **Lesson:** Creating User Roles
 - **Type:** singleselect (Code: 2)
-- **Question:** Which of the following statements best describes the primary purpose of creating user roles in SAP Business Application Studio?
+- **Question:** ### Which of the following statements best describes the primary purpose of creating user roles in SAP Business Application Studio?
 **Options:**
   - ❌ To define and manage user interface elements.
   - ✅ To define different authorizations for your application. 
@@ -255,7 +255,7 @@
 #### Question 11
 - **Lesson:** Sharing the Project via Git
 - **Type:** singleselect (Code: 2)
-- **Question:** In the Simplified Git view, what can you see in the Pending Changes section?
+- **Question:** ### In the Simplified Git view, what can you see in the Pending Changes section?
 **Options:**
   - ❌ The history of all changes that you have made in your project.
   - ✅ A list of uncommitted changes that you have made in your project. 
@@ -267,7 +267,7 @@
 #### Question 12
 - **Lesson:** Deploying to the Cloud Foundry Environment
 - **Type:** singleselect (Code: 2)
-- **Question:** What is a prerequisite to be able to deploy your applications in SAP Business Application Studio to Cloud Foundry?
+- **Question:** ### What is a prerequisite to be able to deploy your applications in SAP Business Application Studio to Cloud Foundry?
 **Options:**
   - ✅ You've logged in to your Cloud Foundry account.
   - ❌ You've configured the local development environment. 
@@ -279,7 +279,7 @@
 #### Question 13
 - **Lesson:** Managing the Application's Lifecycle with CI/CD Service
 - **Type:** singleselect (Code: 2)
-- **Question:** What tool is used to manage the lifecycle of applications in SAP Business Application Studio?
+- **Question:** ### What tool is used to manage the lifecycle of applications in SAP Business Application Studio?
 **Options:**
   - ❌ The Authorization Editor.
   - ❌ The CDS Graphical Modeler. 
@@ -296,7 +296,7 @@
 #### Question 1
 - **Lesson:** Adding a Mobile UI Application to Your Project
 - **Type:** singleselect (Code: 2)
-- **Question:** When adding a mobile UI application to your project in SAP Business Application Studio, which UI Application Type should you select?
+- **Question:** ### When adding a mobile UI application to your project in SAP Business Application Studio, which UI Application Type should you select?
 **Options:**
   - ❌ Template-Based, Responsive Application.
   - ✅ Mobile-Centric, Freestyle Application. 
@@ -309,7 +309,7 @@
 #### Question 2
 - **Lesson:** Enabling Multitenancy for the Previously Created Application
 - **Type:** truefalse (Code: 1)
-- **Question:** Multitenant architecture means that through single clusters of microservice instances, the service provider is enabled to serve multiple tenants. With that, a strict isolation of the tenants (data-wise) takes place. 
+- **Question:** ### Multitenant architecture means that through single clusters of microservice instances, the service provider is enabled to serve multiple tenants. With that, a strict isolation of the tenants (data-wise) takes place. 
 **Options:**
   - ✅ True
   - ❌ False
@@ -325,7 +325,7 @@
 #### Question 1
 - **Lesson:** Identifying the Need for Side-By-Side Extensibility
 - **Type:** singleselect (Code: 2)
-- **Question:** What is the recommended approach for adding custom business logic to an SAP S/4HANA Cloud system?
+- **Question:** ### What is the recommended approach for adding custom business logic to an SAP S/4HANA Cloud system?
 **Options:**
   - ❌ Directly running custom logic on the application server
   - ✅ Using side-by-side extensibility with SAP BTP
@@ -338,7 +338,7 @@
 #### Question 2
 - **Lesson:** Exploring the SAP Cloud Application Programming Model
 - **Type:** singleselect (Code: 2)
-- **Question:** What is the programming model used in non ABAP-based extensions on SAP BTP?
+- **Question:** ### What is the programming model used in non ABAP-based extensions on SAP BTP?
 **Options:**
   - ❌ ABAP RESTful Programming Model
   - ✅ SAP Cloud Application Programming Model
@@ -350,7 +350,7 @@
 #### Question 3
 - **Lesson:** Introducing the SAP BTP Developer's Guide
 - **Type:** singleselect (Code: 2)
-- **Question:** What is the primary purpose of the SAP Developer's Guide?
+- **Question:** ### What is the primary purpose of the SAP Developer's Guide?
 **Options:**
   - ❌ To provide detailed financial analysis tools for SAP applications.
   - ✅ To streamline the development process for business applications on SAP BTP.
@@ -363,7 +363,7 @@
 #### Question 4
 - **Lesson:** Introducing the SAP BTP Developer's Guide
 - **Type:** singleselect (Code: 2)
-- **Question:** Which of the following is NOT a core component of the SAP BTP Developer's Guide?
+- **Question:** ### Which of the following is NOT a core component of the SAP BTP Developer's Guide?
 **Options:**
   - ❌ ABAP Cloud
   - ❌ SAP Cloud Application Programming Model (CAP)
@@ -381,7 +381,7 @@
 #### Question 1
 - **Lesson:** Introducing the OData Protocol
 - **Type:** singleselect (Code: 2)
-- **Question:** What is OData?
+- **Question:** ### What is OData?
 **Options:**
   - ✅ A standard to access data through RESTful APIs
   - ❌ A standard to create user interfaces (UI) for applications
@@ -393,7 +393,7 @@
 #### Question 2
 - **Lesson:** Introducing the OData Protocol
 - **Type:** singleselect (Code: 2)
-- **Question:** Which of the following does OData use to address and access data feed resources?
+- **Question:** ### Which of the following does OData use to address and access data feed resources?
 **Options:**
   - ❌ URL
   - ❌ URN
@@ -405,7 +405,7 @@
 #### Question 3
 - **Lesson:** Introducing the OData Protocol
 - **Type:** multiselect (Code: 3)
-- **Question:** Which document types are associated with an OData service?
+- **Question:** ### Which document types are associated with an OData service?
 **Options:**
   - ❌ Service manifest document
   - ✅ Service document
@@ -418,7 +418,7 @@
 #### Question 4
 - **Lesson:** Explaining JSON/YAML
 - **Type:** singleselect (Code: 2)
-- **Question:** JSON is based on which programming language?
+- **Question:** ### JSON is based on which programming language?
 **Options:**
   - ❌ Java
   - ❌ Julia
@@ -431,7 +431,7 @@
 #### Question 5
 - **Lesson:** Explaining JSON/YAML
 - **Type:** multiselect (Code: 3)
-- **Question:** What are the two structures JSON is built on?
+- **Question:** ### What are the two structures JSON is built on?
 **Options:**
   - ✅ Collections of name/value pairs
   - ❌ Collections of value/value pairs
@@ -444,7 +444,7 @@
 #### Question 6
 - **Lesson:** Explaining JSON/YAML
 - **Type:** singleselect (Code: 2)
-- **Question:** What is the relationship between YAML and JSON?
+- **Question:** ### What is the relationship between YAML and JSON?
 **Options:**
   - ❌ YAML and JSON are unrelated.
   - ❌ JSON is a superset of YAML.
@@ -456,7 +456,7 @@
 #### Question 7
 - **Lesson:** Explaining JSON/YAML
 - **Type:** singleselect (Code: 2)
-- **Question:** Which of the following supports non hierarchical data?
+- **Question:** ### Which of the following supports non hierarchical data?
 **Options:**
   - ✅ YAML
   - ❌ JSON
@@ -468,7 +468,7 @@
 #### Question 8
 - **Lesson:** Explaining JSON/YAML
 - **Type:** multiselect (Code: 3)
-- **Question:** Which of the following statements are correct?
+- **Question:** ### Which of the following statements are correct?
 **Options:**
   - ✅ Each JSON file is a valid YAML file.
   - ❌ Each YAML file is a valid JSON file.
@@ -481,7 +481,7 @@
 #### Question 9
 - **Lesson:** Discovering the End-to-End Use Case
 - **Type:** singleselect (Code: 2)
-- **Question:** What is the default IDE for SAP's multicloud environment?
+- **Question:** ### What is the default IDE for SAP's multicloud environment?
 **Options:**
   - ❌ Eclipse
   - ❌ Oxygen
@@ -494,7 +494,7 @@
 #### Question 10
 - **Lesson:** Discovering the End-to-End Use Case
 - **Type:** singleselect (Code: 2)
-- **Question:** Which dev space type should you select to extend SAP S/4HANA with a CAP project?
+- **Question:** ### Which dev space type should you select to extend SAP S/4HANA with a CAP project?
 **Options:**
   - ❌ SAP Fiori
   - ❌ SAP HANA Native Application
@@ -506,7 +506,7 @@
 #### Question 11
 - **Lesson:** Creating CAP-Based Services
 - **Type:** singleselect (Code: 2)
-- **Question:** Which command do you use to install dependencies in your project?
+- **Question:** ### Which command do you use to install dependencies in your project?
 **Options:**
   - ❌ cds
   - ❌ yum
@@ -519,7 +519,7 @@
 #### Question 12
 - **Lesson:** Creating CAP-Based Services
 - **Type:** singleselect (Code: 2)
-- **Question:** In data models, are namespaces optional or mandatory?
+- **Question:** ### In data models, are namespaces optional or mandatory?
 **Options:**
   - ❌ Mandatory
   - ✅ Optional
@@ -530,7 +530,7 @@
 #### Question 13
 - **Lesson:** Creating CAP-Based Services
 - **Type:** singleselect (Code: 2)
-- **Question:** What is the difference between entities and types?
+- **Question:** ### What is the difference between entities and types?
 **Options:**
   - ❌ Types represent data elements, entities describe aspects of types.
   - ✅ Entities represent data, types describe properties of entity elements.
@@ -546,7 +546,7 @@
 #### Question 1
 - **Lesson:** Serving User Interfaces in CAP
 - **Type:** singleselect (Code: 2)
-- **Question:** Which statement is true about CAP's interaction with user interfaces?
+- **Question:** ### Which statement is true about CAP's interaction with user interfaces?
 **Options:**
   - ❌ CAP services can only be consumed by other back-end services.
   - ✅ CAP services can be consumed by any UI framework through standard AJAX requests.
@@ -558,7 +558,7 @@
 #### Question 2
 - **Lesson:** Serving User Interfaces in CAP
 - **Type:** singleselect (Code: 2)
-- **Question:** What tooling is preinstalled in SAP Business Application Studio to speed up SAP Fiori UI development?
+- **Question:** ### What tooling is preinstalled in SAP Business Application Studio to speed up SAP Fiori UI development?
 **Options:**
   - ❌ Vue.js Extensions
   - ✅ SAP Fiori Tools
@@ -570,7 +570,7 @@
 #### Question 3
 - **Lesson:** Serving User Interfaces in CAP
 - **Type:** singleselect (Code: 2)
-- **Question:** Which of the following is a feature of SAP Fiori Tools designed to visually assist in SAP Fiori UI development?
+- **Question:** ### Which of the following is a feature of SAP Fiori Tools designed to visually assist in SAP Fiori UI development?
 **Options:**
   - ❌ AJAX Mapper
   - ✅ Page Map
@@ -582,7 +582,7 @@
 #### Question 4
 - **Lesson:** Generating User Interfaces
 - **Type:** singleselect (Code: 2)
-- **Question:** Which filter fields are set in the exercise: Generate a User Interface Using SAP Fiori Elements to define which properties are exposed as search fields in the header bar above the list?
+- **Question:** ### Which filter fields are set in the exercise: Generate a User Interface Using SAP Fiori Elements to define which properties are exposed as search fields in the header bar above the list?
 **Options:**
   - ❌ urgency_code and filter_code
   - ❌ status_code and filter code
@@ -599,7 +599,7 @@
 #### Question 1
 - **Lesson:** Explaining Event Handling in CAP
 - **Type:** singleselect (Code: 2)
-- **Question:** Which pattern do you use to register an event handler?
+- **Question:** ### Which pattern do you use to register an event handler?
 **Options:**
   - ❌ event.()
   - ❌ phase.()
@@ -611,7 +611,7 @@
 #### Question 2
 - **Lesson:** Explaining Event Handling in CAP
 - **Type:** singleselect (Code: 2)
-- **Question:** In CAP, which keyword is used to send events?
+- **Question:** ### In CAP, which keyword is used to send events?
 **Options:**
   - ❌ throw
   - ✅ emit
@@ -624,7 +624,7 @@
 #### Question 3
 - **Lesson:** Explaining Event Handling in CAP
 - **Type:** singleselect (Code: 2)
-- **Question:** How many event handlers can you register for one event phase?
+- **Question:** ### How many event handlers can you register for one event phase?
 **Options:**
   - ✅ Multiple
   - ❌ Exactly one
@@ -636,7 +636,7 @@
 #### Question 4
 - **Lesson:** Explaining Event Handling in CAP
 - **Type:** singleselect (Code: 2)
-- **Question:** Why does CAP set the filerisks-service.jsautomatically as a handler file for the respective service?
+- **Question:** ### Why does CAP set the filerisks-service.jsautomatically as a handler file for the respective service?
 **Options:**
   - ✅ Because the filename and the service definition filename are the same.
   - ❌ Because SAP Business Application Studio added a respective annotation.
@@ -647,7 +647,7 @@
 #### Question 5
 - **Lesson:** Explaining Event Handling in CAP
 - **Type:** multiselect (Code: 3)
-- **Question:** Which of the following applies to Custom Event handlers?
+- **Question:** ### Which of the following applies to Custom Event handlers?
 **Options:**
   - ✅ Registered custom handlers can add Domain logic to the application.
   - ✅ Multiple Event Handlers can be registered for the same event.
@@ -660,7 +660,7 @@
 #### Question 6
 - **Lesson:** Explaining the Need for Custom Business Logic
 - **Type:** multiselect (Code: 3)
-- **Question:** Which are the Service APIs for Custom Logic?
+- **Question:** ### Which are the Service APIs for Custom Logic?
 **Options:**
   - ✅ Messaging API
   - ✅ Event Handling
@@ -673,7 +673,7 @@
 #### Question 7
 - **Lesson:** Describing Error Handling
 - **Type:** singleselect (Code: 2)
-- **Question:** What can you do to provide meaningful error messages to users in your CAP application?
+- **Question:** ### What can you do to provide meaningful error messages to users in your CAP application?
 **Options:**
   - ❌ Catch exceptions
   - ✅ Register an error handler
@@ -686,7 +686,7 @@
 #### Question 8
 - **Lesson:** Describing Error Handling
 - **Type:** singleselect (Code: 2)
-- **Question:** In Node.js, which statement do you use to create an exception?
+- **Question:** ### In Node.js, which statement do you use to create an exception?
 **Options:**
   - ✅ throw
   - ❌ try
@@ -698,7 +698,7 @@
 #### Question 9
 - **Lesson:** Adding Custom Business Logics
 - **Type:** singleselect (Code: 2)
-- **Question:** Why does CAP set the file risks-service.jsautomatically as a handler file for the respective service? 
+- **Question:** ### Why does CAP set the file risks-service.jsautomatically as a handler file for the respective service? 
 **Options:**
   - ✅ Because the filename and the service definition filename are the same
   - ❌ Because SAP Business Application Studio added a respective annotation
@@ -709,7 +709,7 @@
 #### Question 10
 - **Lesson:** Adding Custom Business Logics
 - **Type:** singleselect (Code: 2)
-- **Question:** Which criticality value is assigned to Negativecriticality? 
+- **Question:** ### Which criticality value is assigned to Negativecriticality? 
 **Options:**
   - ✅ 1
   - ❌ 2
@@ -721,7 +721,7 @@
 #### Question 11
 - **Lesson:** Adding Local Launch Pages
 - **Type:** singleselect (Code: 2)
-- **Question:** Which is the required status of the IncidentManagement dev space in the exercise Use a Local Launch Page?
+- **Question:** ### Which is the required status of the IncidentManagement dev space in the exercise Use a Local Launch Page?
 **Options:**
   - ✅ Running
   - ❌ Deployed
@@ -738,7 +738,7 @@
 #### Question 1
 - **Lesson:** Describing Authorization and Trust Management (XSUAA)
 - **Type:** multiselect (Code: 3)
-- **Question:** Which user types work on and with SAP BTP?
+- **Question:** ### Which user types work on and with SAP BTP?
 **Options:**
   - ❌ Professional users
   - ✅ Platform users
@@ -751,7 +751,7 @@
 #### Question 2
 - **Lesson:** Describing Authorization and Trust Management (XSUAA)
 - **Type:** singleselect (Code: 2)
-- **Question:** What is the default identity provider for SAP BTP platform users?
+- **Question:** ### What is the default identity provider for SAP BTP platform users?
 **Options:**
   - ❌ SAP Cloud Identity Services
   - ✅ SAP ID service
@@ -764,7 +764,7 @@
 #### Question 3
 - **Lesson:** Describing Authorization and Trust Management (XSUAA)
 - **Type:** multiselect (Code: 3)
-- **Question:** What does the Extended Services - User Account and Authentication (XSUAA) service enable your app to do?
+- **Question:** ### What does the Extended Services - User Account and Authentication (XSUAA) service enable your app to do?
 **Options:**
   - ❌ Store "real" users
   - ❌ Identify users by address and social security ID
@@ -777,7 +777,7 @@
 #### Question 4
 - **Lesson:** Describing Authorization and Trust Management (XSUAA)
 - **Type:** singleselect (Code: 2)
-- **Question:** Which file contains an app's "declaration of security"?
+- **Question:** ### Which file contains an app's "declaration of security"?
 **Options:**
   - ❌ xs-sec.json
   - ❌ xs-app.json
@@ -789,7 +789,7 @@
 #### Question 5
 - **Lesson:** Defining CDS Restrictions and Roles
 - **Type:** singleselect (Code: 2)
-- **Question:** How do you add authorization and trust management to your CAP project?
+- **Question:** ### How do you add authorization and trust management to your CAP project?
 **Options:**
   - ❌ cds add security
   - ❌ cds add uaa
@@ -801,7 +801,7 @@
 #### Question 6
 - **Lesson:** Defining CDS Restrictions and Roles
 - **Type:** multiselect (Code: 3)
-- **Question:** Which files do you modify to store project configurations?
+- **Question:** ### Which files do you modify to store project configurations?
 **Options:**
   - ✅ .cdsrc.json
   - ❌ passport.js
@@ -818,7 +818,7 @@
 #### Question 1
 - **Lesson:** Explaining Extensibility and Connectivity in CAP
 - **Type:** multiselect (Code: 3)
-- **Question:** When you develop a CAP application, what can be used to connect to an external Cloud system?
+- **Question:** ### When you develop a CAP application, what can be used to connect to an external Cloud system?
 **Options:**
   - ✅ SAP BTP destinations using Destination Service
   - ✅ Cloud Connector
@@ -831,7 +831,7 @@
 #### Question 2
 - **Lesson:** Explaining Unit Tests
 - **Type:** singleselect (Code: 2)
-- **Question:** Which of the following is a key characteristic of unit testing?
+- **Question:** ### Which of the following is a key characteristic of unit testing?
 **Options:**
   - ✅ Testing the individual components of code in isolation
   - ❌ Testing the performance of the entire application
@@ -843,7 +843,7 @@
 #### Question 3
 - **Lesson:** Explaining Unit Tests
 - **Type:** singleselect (Code: 2)
-- **Question:** Which library is commonly used for assertions in Node.js unit testing?
+- **Question:** ### Which library is commonly used for assertions in Node.js unit testing?
 **Options:**
   - ✅ Chai
   - ❌ Express
@@ -855,7 +855,7 @@
 #### Question 4
 - **Lesson:** Adding Test Cases
 - **Type:** truefalse (Code: 1)
-- **Question:** In the exercise Add Test Cases, you use the file: test_main.js.
+- **Question:** ### In the exercise Add Test Cases, you use the file: test_main.js.
 **Options:**
   - ❌ True
   - ✅ False
@@ -866,7 +866,7 @@
 #### Question 5
 - **Lesson:** Adding External Services
 - **Type:** singleselect (Code: 2)
-- **Question:** What do you need to connect a service to the Sandbox environment of the SAP API Business Hub for the Business Partner API that you want to use?
+- **Question:** ### What do you need to connect a service to the Sandbox environment of the SAP API Business Hub for the Business Partner API that you want to use?
 **Options:**
   - ✅ An API key
   - ❌ A personal token
@@ -877,7 +877,7 @@
 #### Question 6
 - **Lesson:** Adding External Services
 - **Type:** singleselect (Code: 2)
-- **Question:** What does the .env file provide?
+- **Question:** ### What does the .env file provide?
 **Options:**
   - ✅ Values into the runtime environment of a CAP service
   - ❌ Values for your version-management-system
@@ -893,7 +893,7 @@
 #### Question 1
 - **Lesson:** Identifying Deployment Options in CAP
 - **Type:** multiselect (Code: 3)
-- **Question:** Which statements are true about CAP's deployment options?
+- **Question:** ### Which statements are true about CAP's deployment options?
 **Options:**
   - ❌ CAP applications can only be deployed on SAP BTP environments.
   - ✅ CAP has built-in support for multitenancy.
@@ -906,7 +906,7 @@
 #### Question 2
 - **Lesson:** Explaining the Deployment Process
 - **Type:** singleselect (Code: 2)
-- **Question:** What is a Multitarget application (MTA) comprised of?
+- **Question:** ### What is a Multitarget application (MTA) comprised of?
 **Options:**
   - ✅ Modules and resources
   - ❌ Modules and services
@@ -918,7 +918,7 @@
 #### Question 3
 - **Lesson:** Preparing for Deployment in the SAP BTP, Cloud Foundry Runtime
 - **Type:** singleselect (Code: 2)
-- **Question:** After you run the command cds add hana, which file is updated with the required configuration?
+- **Question:** ### After you run the command cds add hana, which file is updated with the required configuration?
 **Options:**
   - ❌ package.js
   - ❌ package.cds
@@ -931,7 +931,7 @@
 #### Question 4
 - **Lesson:** Preparing for Deployment in the SAP BTP, Cloud Foundry Runtime
 - **Type:** multiselect (Code: 3)
-- **Question:** What are the advantages of using an MTA file for deployment? Choose the two correct answers.
+- **Question:** ### What are the advantages of using an MTA file for deployment? Choose the two correct answers.
 **Options:**
   - ❌ It supports red - green deployment.
   - ✅ It supports blue-green deployment.
@@ -944,7 +944,7 @@
 #### Question 5
 - **Lesson:** Preparing for Deployment in the SAP BTP, Cloud Foundry Runtime
 - **Type:** singleselect (Code: 2)
-- **Question:** What are yaml files used for?
+- **Question:** ### What are yaml files used for?
 **Options:**
   - ❌ To describe documents
   - ✅ To describe data
@@ -955,7 +955,7 @@
 #### Question 6
 - **Lesson:** Preparing for Deployment in the SAP BTP, Cloud Foundry Runtime
 - **Type:** multiselect (Code: 3)
-- **Question:** Which statements about YAML files are correct? Choose the two correct answers.
+- **Question:** ### Which statements about YAML files are correct? Choose the two correct answers.
 **Options:**
   - ✅ YAML uses whitespace indentation for structuring purposes.
   - ❌ YAML uses tab indentation for structuring purposes.
@@ -973,7 +973,7 @@
 #### Question 1
 - **Lesson:** Explaining SAP Build Work Zone, Standard Edition
 - **Type:** singleselect (Code: 2)
-- **Question:** What is the primary benefit of using SAP Build Work Zone, standard edition?
+- **Question:** ### What is the primary benefit of using SAP Build Work Zone, standard edition?
 **Options:**
   - ❌  It offers a complex and customizable coding environment.
   - ✅ It provides a centralized access point for business applications and information on any device.
@@ -986,7 +986,7 @@
 #### Question 2
 - **Lesson:** Explaining SAP Build Work Zone, Standard Edition
 - **Type:** singleselect (Code: 2)
-- **Question:** Which feature of SAP Build Work Zone, standard edition allows for customizations using shell plugins and custom branding?
+- **Question:** ### Which feature of SAP Build Work Zone, standard edition allows for customizations using shell plugins and custom branding?
 **Options:**
   - ❌ Application Integration
   - ✅ Extensibility
@@ -999,7 +999,7 @@
 #### Question 3
 - **Lesson:** Integrating the App with SAP Build Work Zone
 - **Type:** singleselect (Code: 2)
-- **Question:** Which role collection is required in the Integrate with SAP Build Work Zone, Standard Edition?
+- **Question:** ### Which role collection is required in the Integrate with SAP Build Work Zone, Standard Edition?
 **Options:**
   - ❌ SAP_ALL
   - ❌ Admin_All
@@ -1016,7 +1016,7 @@
 #### Question 1
 - **Lesson:** Explaining the Basic Concepts of Kubernetes
 - **Type:** singleselect (Code: 2)
-- **Question:** What is Kubernetes?
+- **Question:** ### What is Kubernetes?
 **Options:**
   - ❌ A container runtime
   - ❌ A container engine
@@ -1029,7 +1029,7 @@
 #### Question 2
 - **Lesson:** Explaining the Basic Concepts of Kubernetes
 - **Type:** truefalse (Code: 1)
-- **Question:** Kubernetes allows you to use and switch between different implementations of the same API.
+- **Question:** ### Kubernetes allows you to use and switch between different implementations of the same API.
 **Options:**
   - ✅ True
   - ❌ False
@@ -1040,7 +1040,7 @@
 #### Question 3
 - **Lesson:** Describing Kubernetes Cluster Architecture
 - **Type:** multiselect (Code: 3)
-- **Question:** What is the main task of the Control Plane?
+- **Question:** ### What is the main task of the Control Plane?
 **Options:**
   - ✅ It is responsible for scheduling containers on worker nodes.
   - ✅ It is responsible for storing and managing the cluster data.
@@ -1053,7 +1053,7 @@
 #### Question 4
 - **Lesson:** Describing Kubernetes Cluster Architecture
 - **Type:** singleselect (Code: 2)
-- **Question:** Which component is responsible for maintaining network rules on the nodes?
+- **Question:** ### Which component is responsible for maintaining network rules on the nodes?
 **Options:**
   - ✅ kube-proxy
   - ❌ kubelet
@@ -1066,7 +1066,7 @@
 #### Question 5
 - **Lesson:** Describing Kubernetes Cluster Architecture
 - **Type:** singleselect (Code: 2)
-- **Question:** Which component is responsible for running your containers?
+- **Question:** ### Which component is responsible for running your containers?
 **Options:**
   - ✅ Container Runtime
   - ❌ Container Runtime Interface
@@ -1079,7 +1079,7 @@
 #### Question 6
 - **Lesson:** Describing Kubernetes Cluster Architecture
 - **Type:** multiselect (Code: 3)
-- **Question:** From the following list, choose the correct node types in a Kubernetes cluster:
+- **Question:** ### From the following list, choose the correct node types in a Kubernetes cluster:
 **Options:**
   - ✅ Master node
   - ✅ Worker node
@@ -1092,7 +1092,7 @@
 #### Question 7
 - **Lesson:** Describing Kubernetes Cluster Architecture
 - **Type:** singleselect (Code: 2)
-- **Question:** Which of the following components belong to the control plane?
+- **Question:** ### Which of the following components belong to the control plane?
 **Options:**
   - ✅ etcd, kube-scheduler, kube-controller-manager, kube-apiserver
   - ❌ etcd, etcd-scheduler, kube-controller-manager, kube-apiserver
@@ -1103,7 +1103,7 @@
 #### Question 8
 - **Lesson:** Mastering Kubernetes Objects
 - **Type:** singleselect (Code: 2)
-- **Question:** Which of the following is not a core Kubernetes object?
+- **Question:** ### Which of the following is not a core Kubernetes object?
 **Options:**
   - ❌ Pods
   - ❌ Services
@@ -1115,7 +1115,7 @@
 #### Question 9
 - **Lesson:** Mastering Kubernetes Objects
 - **Type:** singleselect (Code: 2)
-- **Question:** What do Deployments manage?
+- **Question:** ### What do Deployments manage?
 **Options:**
   - ❌ Pods
   - ✅ ReplicaSets
@@ -1127,7 +1127,7 @@
 #### Question 10
 - **Lesson:** Interacting with the Kubernetes API Using Kubectl
 - **Type:** singleselect (Code: 2)
-- **Question:** Which command can you use to list all Pods in the default namespace?
+- **Question:** ### Which command can you use to list all Pods in the default namespace?
 **Options:**
   - ✅ kubectl get pods
   - ❌ kubectl list pods
@@ -1140,7 +1140,7 @@
 #### Question 11
 - **Lesson:** Interacting with the Kubernetes API Using Kubectl
 - **Type:** singleselect (Code: 2)
-- **Question:** Which command can you use to create a Pod from a YAML file?
+- **Question:** ### Which command can you use to create a Pod from a YAML file?
 **Options:**
   - ✅ kubectl create -f my-pod.yaml
   - ❌ kubectl upload my-pod.yaml
@@ -1152,7 +1152,7 @@
 #### Question 12
 - **Lesson:** Interacting with the Kubernetes API Using Kubectl
 - **Type:** singleselect (Code: 2)
-- **Question:** What is the difference between the createand applycommand?
+- **Question:** ### What is the difference between the createand applycommand?
 **Options:**
   - ✅ The create command can only be used to create objects. The apply command can be used to create and update objects.
   - ❌ The create command can be used to create and update objects. The apply command can only be used to create objects.
@@ -1168,7 +1168,7 @@
 #### Question 1
 - **Lesson:** Describing Kyma in Relation to Kubernetes
 - **Type:** singleselect (Code: 2)
-- **Question:** What is Kubernetes?
+- **Question:** ### What is Kubernetes?
 **Options:**
   - ❌ A container runtime
   - ❌ A container engine
@@ -1181,7 +1181,7 @@
 #### Question 2
 - **Lesson:** Describing Kyma in Relation to Kubernetes
 - **Type:** multiselect (Code: 3)
-- **Question:** Which user interfaces can you use to manage your Kyma cluster?
+- **Question:** ### Which user interfaces can you use to manage your Kyma cluster?
 **Options:**
   - ✅ Kyma CLI
   - ✅ Kyma dashboard
@@ -1194,7 +1194,7 @@
 #### Question 3
 - **Lesson:** Exploring the Benefits of the SAP BTP, Kyma runtime
 - **Type:** truefalse (Code: 1)
-- **Question:** SAP BTP, Kyma runtime is a managed Kubernetes service that is hosted by SAP.
+- **Question:** ### SAP BTP, Kyma runtime is a managed Kubernetes service that is hosted by SAP.
 **Options:**
   - ❌ True
   - ✅ False
@@ -1205,7 +1205,7 @@
 #### Question 4
 - **Lesson:** Exploring the Benefits of the SAP BTP, Kyma runtime
 - **Type:** truefalse (Code: 1)
-- **Question:** SAP BTP, Kyma runtime is an unmaintained Kubernetes cluster.
+- **Question:** ### SAP BTP, Kyma runtime is an unmaintained Kubernetes cluster.
 **Options:**
   - ❌ True
   - ✅ False
@@ -1216,7 +1216,7 @@
 #### Question 5
 - **Lesson:** Exploring the Benefits of the SAP BTP, Kyma runtime
 - **Type:** truefalse (Code: 1)
-- **Question:** Gardener is a Kubernetes like container orchestrator.
+- **Question:** ### Gardener is a Kubernetes like container orchestrator.
 **Options:**
   - ❌ True
   - ✅ False
@@ -1232,7 +1232,7 @@
 #### Question 1
 - **Lesson:** Discovering Kubernetes Workloads
 - **Type:** singleselect (Code: 2)
-- **Question:** Which workload type is suitable for a stateful workload, such as a database?
+- **Question:** ### Which workload type is suitable for a stateful workload, such as a database?
 **Options:**
   - ❌ Pod
   - ❌ ReplicaSet
@@ -1246,7 +1246,7 @@
 #### Question 2
 - **Lesson:** Discovering Kubernetes Workloads
 - **Type:** singleselect (Code: 2)
-- **Question:** Which workload type is most suitable for a stateless workload, such as a common microservice?
+- **Question:** ### Which workload type is most suitable for a stateless workload, such as a common microservice?
 **Options:**
   - ❌ Pod
   - ❌ ReplicaSet
@@ -1260,7 +1260,7 @@
 #### Question 3
 - **Lesson:** Discovering Kubernetes Workloads
 - **Type:** singleselect (Code: 2)
-- **Question:** When would you choose a DaemonSet?
+- **Question:** ### When would you choose a DaemonSet?
 **Options:**
   - ❌ When you want to run a stateful workload.
   - ❌ When you want to run a stateless workload.
@@ -1273,7 +1273,7 @@
 #### Question 4
 - **Lesson:** Working with Serverless Functions
 - **Type:** singleselect (Code: 2)
-- **Question:** What are Serverless Functions in project "Kyma"?
+- **Question:** ### What are Serverless Functions in project "Kyma"?
 **Options:**
   - ❌ A Kubernetes built-in resource
   - ✅ A Kubernetes custom resource (CR)
@@ -1284,7 +1284,7 @@
 #### Question 5
 - **Lesson:** Working with Serverless Functions
 - **Type:** multiselect (Code: 3)
-- **Question:** What are the pros of Serverless Functions?
+- **Question:** ### What are the pros of Serverless Functions?
 **Options:**
   - ❌ They are vendor-specific.
   - ❌ They are less portable compared to containers.
@@ -1297,7 +1297,7 @@
 #### Question 6
 - **Lesson:** Working with Serverless Functions
 - **Type:** multiselect (Code: 3)
-- **Question:** How can Serverless Functions be invoked?
+- **Question:** ### How can Serverless Functions be invoked?
 **Options:**
   - ✅ By an HTTP request
   - ✅ By an event
@@ -1310,7 +1310,7 @@
 #### Question 7
 - **Lesson:** Discovering Deployments
 - **Type:** singleselect (Code: 2)
-- **Question:** Which of the following is true about the ImagePullPolicy? 
+- **Question:** ### Which of the following is true about the ImagePullPolicy? 
 **Options:**
   - ❌ It is set to Always by default.
   - ✅ It is set to IfNotPresent by default.
@@ -1323,7 +1323,7 @@
 #### Question 8
 - **Lesson:** Discovering Deployments
 - **Type:** multiselect (Code: 3)
-- **Question:** Which of the following is true about the RollingUpdatedeployment strategy?
+- **Question:** ### Which of the following is true about the RollingUpdatedeployment strategy?
 **Options:**
   - ✅ It is the default deployment strategy.
   - ✅  It can be used to update your application without downtime.
@@ -1336,7 +1336,7 @@
 #### Question 9
 - **Lesson:** Discovering the Helm Package Manager for Deployments
 - **Type:** singleselect (Code: 2)
-- **Question:** What is Helm?
+- **Question:** ### What is Helm?
 **Options:**
   - ❌ A tool for managing Kubernetes clusters.
   - ❌ A tool for managing Kubernetes users.
@@ -1349,7 +1349,7 @@
 #### Question 10
 - **Lesson:** Discovering the Helm Package Manager for Deployments
 - **Type:** singleselect (Code: 2)
-- **Question:** Which components can you differentiate in a Helm chart?
+- **Question:** ### Which components can you differentiate in a Helm chart?
 **Options:**
   - ✅ "Chart.yaml", "values.yaml", "charts/", "templates/"
   - ❌ "helm.yaml", "parameters.yaml", "charts/", "manifests/"
@@ -1361,7 +1361,7 @@
 #### Question 11
 - **Lesson:** Discovering DaemonSets in Kubernetes
 - **Type:** singleselect (Code: 2)
-- **Question:** What is the main difference between ReplicaSets and DaemonSets?
+- **Question:** ### What is the main difference between ReplicaSets and DaemonSets?
 **Options:**
   - ❌ ReplicaSets ensure that one copy of a given pod runs on a subset of nodes in your cluster.
   - ✅ DaemonSets ensure that one copy of a given pod runs on a subset of nodes in your cluster.
@@ -1372,7 +1372,7 @@
 #### Question 12
 - **Lesson:** Discovering DaemonSets in Kubernetes
 - **Type:** singleselect (Code: 2)
-- **Question:** How can you specify on which nodes a DaemonSet should run?
+- **Question:** ### How can you specify on which nodes a DaemonSet should run?
 **Options:**
   - ❌ By specifying a node selector in the DaemonSet manifest.
   - ✅ By specifying a node selector in the pod template of the DaemonSet manifest.
@@ -1385,7 +1385,7 @@
 #### Question 13
 - **Lesson:** Explaining Jobs in Kubernetes
 - **Type:** singleselect (Code: 2)
-- **Question:** Which of the following statements is true about Jobs in Kubernetes?
+- **Question:** ### Which of the following statements is true about Jobs in Kubernetes?
 **Options:**
   - ❌ Jobs are used to run a workload periodically.
   - ✅ Jobs are used to run a workload once and then terminate.
@@ -1397,7 +1397,7 @@
 #### Question 14
 - **Lesson:** Explaining Jobs in Kubernetes
 - **Type:** singleselect (Code: 2)
-- **Question:** Which of the following statements is true about CronJobs in Kubernetes?
+- **Question:** ### Which of the following statements is true about CronJobs in Kubernetes?
 **Options:**
   - ✅ CronJobs are used to run a workload periodically.
   - ❌ CronJobs are used to run a workload once and then terminate.
@@ -1410,7 +1410,7 @@
 #### Question 15
 - **Lesson:** Working with Horizontal Pod Autoscalers (HPA)
 - **Type:** singleselect (Code: 2)
-- **Question:** What are Horizontal Pod Autoscalers (HPA) used for?
+- **Question:** ### What are Horizontal Pod Autoscalers (HPA) used for?
 **Options:**
   - ❌ To scale a Deployment vertically.
   - ✅ To scale a Deployment horizontally.
@@ -1421,7 +1421,7 @@
 #### Question 16
 - **Lesson:** Working with Horizontal Pod Autoscalers (HPA)
 - **Type:** singleselect (Code: 2)
-- **Question:** What is the difference between horizontal and vertical scaling?
+- **Question:** ### What is the difference between horizontal and vertical scaling?
 **Options:**
   - ✅ Horizontal scaling increases the number of pods, while vertical scaling increases the resources of a pod.
   - ❌ Horizontal scaling increases the resources of a pod, while vertical scaling increases the number of pods
@@ -1437,7 +1437,7 @@
 #### Question 1
 - **Lesson:** Using Services in Kubernetes
 - **Type:** singleselect (Code: 2)
-- **Question:** What are services in Kubernetes?
+- **Question:** ### What are services in Kubernetes?
 **Options:**
   - ✅ Services are a way to group Pods together
   - ❌  Services are a way to group Deployments together
@@ -1450,7 +1450,7 @@
 #### Question 2
 - **Lesson:** Using Services in Kubernetes
 - **Type:** multiselect (Code: 3)
-- **Question:** What are the DNS names of a service named hello-kyma-svc in the defaultnamespace?
+- **Question:** ### What are the DNS names of a service named hello-kyma-svc in the defaultnamespace?
 **Options:**
   - ✅ hello-kyma-svc.default.svc.cluster.local
   - ❌ hello-kyma-svc.svc.cluster.local
@@ -1463,7 +1463,7 @@
 #### Question 3
 - **Lesson:** Using Services in Kubernetes
 - **Type:** singleselect (Code: 2)
-- **Question:** How does a service determine which pods to group together?
+- **Question:** ### How does a service determine which pods to group together?
 **Options:**
   - ✅  By using a label selector
   - ❌  By using a field selector
@@ -1476,7 +1476,7 @@
 #### Question 4
 - **Lesson:** Exposing a Service in Kyma with API Rules
 - **Type:** multiselect (Code: 3)
-- **Question:** Which components are part of the API Gateway?
+- **Question:** ### Which components are part of the API Gateway?
 **Options:**
   - ✅  Istio Ingress Gateway-
   - ❌ Istio Egress Gateway
@@ -1490,7 +1490,7 @@
 #### Question 5
 - **Lesson:** Exposing a Service in Kyma with API Rules
 - **Type:** singleselect (Code: 2)
-- **Question:** Which custom resource (CR) is used to create an API Rule?
+- **Question:** ### Which custom resource (CR) is used to create an API Rule?
 **Options:**
   - ✅  apirules.gateway.kyma-project.io
   - ❌  apirules.istio.kyma-project.io
@@ -1501,7 +1501,7 @@
 #### Question 6
 - **Lesson:** Exposing a Service in Kyma with API Rules
 - **Type:** singleselect (Code: 2)
-- **Question:** How can you securely expose a service?
+- **Question:** ### How can you securely expose a service?
 **Options:**
   - ✅  By creating an API Rule with Access Rules
   - ❌  By creating a Kubernetes service with port 443
@@ -1517,7 +1517,7 @@
 #### Question 1
 - **Lesson:** Discovering the Service Mesh
 - **Type:** multiselect (Code: 3)
-- **Question:** Which of the following are core benefits of a service mesh?
+- **Question:** ### Which of the following are core benefits of a service mesh?
 **Options:**
   - ✅ Observability
   - ✅  Traffic Management
@@ -1530,7 +1530,7 @@
 #### Question 2
 - **Lesson:** Discovering the Service Mesh
 - **Type:** singleselect (Code: 2)
-- **Question:** How does a service mesh work in Kubernetes?
+- **Question:** ### How does a service mesh work in Kubernetes?
 **Options:**
   - ❌  A Kubernetes controller manages the communication between the services.
   - ❌  It is a Kubernetes controller that manages the lifecycle of the services.
@@ -1543,7 +1543,7 @@
 #### Question 3
 - **Lesson:** Discovering Istio
 - **Type:** multiselect (Code: 3)
-- **Question:** Which of the following statements is true?
+- **Question:** ### Which of the following statements is true?
 **Options:**
   - ✅  Istio is an open-source service mesh solution that extends Kubernetes.
   - ❌  The Istio control plane intercepts and controls network communication.
@@ -1556,7 +1556,7 @@
 #### Question 4
 - **Lesson:** Discovering Istio
 - **Type:** singleselect (Code: 2)
-- **Question:** What is the Istio Ingress Gateway used for?
+- **Question:** ### What is the Istio Ingress Gateway used for?
 **Options:**
   - ✅ To gate traffic into your cluster
   - ❌ To gate traffic out of your cluster
@@ -1567,7 +1567,7 @@
 #### Question 5
 - **Lesson:** Discovering Istio
 - **Type:** multiselect (Code: 3)
-- **Question:** Which of the following is an example of how Istio is integrated into SAP BTP, Kyma runtime?
+- **Question:** ### Which of the following is an example of how Istio is integrated into SAP BTP, Kyma runtime?
 **Options:**
   - ❌  Istio is installed but not enabled by default.
   - ✅ The APIRule custom resource is translated into Istio components (VirtualService).
@@ -1580,7 +1580,7 @@
 #### Question 6
 - **Lesson:** Using Istio
 - **Type:** singleselect (Code: 2)
-- **Question:** Which resource is used to configure the ingress gateway?
+- **Question:** ### Which resource is used to configure the ingress gateway?
 **Options:**
   - ❌ VirtualService
   - ✅ Gateway
@@ -1593,7 +1593,7 @@
 #### Question 7
 - **Lesson:** Using Istio
 - **Type:** singleselect (Code: 2)
-- **Question:** How can you secure the communication between services in your service mesh?
+- **Question:** ### How can you secure the communication between services in your service mesh?
 **Options:**
   - ❌  By encrypting the traffic with TLS
   - ✅  By encrypting the traffic with mTLS
@@ -1604,7 +1604,7 @@
 #### Question 8
 - **Lesson:** Using Istio
 - **Type:** multiselect (Code: 3)
-- **Question:** Which of the following are observability features of Istio?
+- **Question:** ### Which of the following are observability features of Istio?
 **Options:**
   - ✅ Metrics
   - ✅ Distributed Traces
@@ -1622,7 +1622,7 @@
 #### Question 1
 - **Lesson:** Creating a Subscription using Kyma Eventing
 - **Type:** multiselect (Code: 3)
-- **Question:** Which of the following technologies are used throughout the Kyma Eventing process?
+- **Question:** ### Which of the following technologies are used throughout the Kyma Eventing process?
 **Options:**
   - ❌  Apache Kafka
   - ❌ MQTT
@@ -1640,7 +1640,7 @@
 #### Question 1
 - **Lesson:** Performing and Monitoring Storage
 - **Type:** singleselect (Code: 2)
-- **Question:** Which Kubernetes resource is used to request storage from the cluster?
+- **Question:** ### Which Kubernetes resource is used to request storage from the cluster?
 **Options:**
   - ✅ PersistentVolumeClaim
   - ❌ PersistentVolume
@@ -1653,7 +1653,7 @@
 #### Question 2
 - **Lesson:** Performing and Monitoring Storage
 - **Type:** singleselect (Code: 2)
-- **Question:** Which Kubernetes resource is used to abstract physical storage and make it available to the cluster?
+- **Question:** ### Which Kubernetes resource is used to abstract physical storage and make it available to the cluster?
 **Options:**
   - ❌ PersistentVolumeClaim
   - ✅ PersistentVolume
@@ -1666,7 +1666,7 @@
 #### Question 3
 - **Lesson:** Connecting Storage to StatefulSets
 - **Type:** singleselect (Code: 2)
-- **Question:** Which Kubernetes resource is used to describe the "classes" of storage they offer?
+- **Question:** ### Which Kubernetes resource is used to describe the "classes" of storage they offer?
 **Options:**
   - ❌ PersistentVolumeClaim
   - ❌ PersistentVolume
@@ -1684,7 +1684,7 @@
 #### Question 1
 - **Lesson:** Defining SAP BTP Service Management in the Kyma Environment
 - **Type:** singleselect (Code: 2)
-- **Question:** Where can you find SAP BTP services which can be consumed and managed in Kyma?
+- **Question:** ### Where can you find SAP BTP services which can be consumed and managed in Kyma?
 **Options:**
   - ❌ SAP Playground
   - ✅ SAP Discovery Center
@@ -1696,7 +1696,7 @@
 #### Question 2
 - **Lesson:** Defining SAP BTP Service Management in the Kyma Environment
 - **Type:** singleselect (Code: 2)
-- **Question:** Which API comes into play for provisioning services on SAP BTP through SAP BTP, Kyma runtime?
+- **Question:** ### Which API comes into play for provisioning services on SAP BTP through SAP BTP, Kyma runtime?
 **Options:**
   - ❌ Queue Broker API
   - ❌ Composite API
@@ -1714,7 +1714,7 @@
 #### Question 1
 - **Lesson:** Describing Observability in Kyma
 - **Type:** multiselect (Code: 3)
-- **Question:** Which kind of telemetry data is supported by the Telemetry module?
+- **Question:** ### Which kind of telemetry data is supported by the Telemetry module?
 **Options:**
   - ✅ Logs
   - ✅ Traces
@@ -1727,7 +1727,7 @@
 #### Question 2
 - **Lesson:** Describing Observability in Kyma
 - **Type:** singleselect (Code: 2)
-- **Question:** Does the Kyma Telemetry module store telemetry data?
+- **Question:** ### Does the Kyma Telemetry module store telemetry data?
 **Options:**
   - ❌ Yes, it brings Prometheus as an in-cluster backend.
   - ✅ No, it supports you in collecting and shipping telemetry data to external backends.
@@ -1738,7 +1738,7 @@
 #### Question 3
 - **Lesson:** Describing Observability in Kyma
 - **Type:** multiselect (Code: 3)
-- **Question:** What are the tasks of SAP Cloud Logging when integrated with Kyma's Telemetry module?
+- **Question:** ### What are the tasks of SAP Cloud Logging when integrated with Kyma's Telemetry module?
 **Options:**
   - ❌ Collect data
   - ❌ Ship data
@@ -1758,7 +1758,7 @@
 #### Question 1
 - **Lesson:** Explaining ConfigMaps and Secrets
 - **Type:** singleselect (Code: 2)
-- **Question:** What are ConfigMaps used for?
+- **Question:** ### What are ConfigMaps used for?
 **Options:**
   - ❌ To store sensitive data like passwords or API keys
   - ✅ To store non-sensitive data like configuration files
@@ -1769,7 +1769,7 @@
 #### Question 2
 - **Lesson:** Explaining ConfigMaps and Secrets
 - **Type:** singleselect (Code: 2)
-- **Question:** What are Secrets used for?
+- **Question:** ### What are Secrets used for?
 **Options:**
   - ✅ To store sensitive data like passwords or API keys
   - ❌  To store non-sensitive data like configuration files
@@ -1780,7 +1780,7 @@
 #### Question 3
 - **Lesson:** Explaining ConfigMaps and Secrets
 - **Type:** singleselect (Code: 2)
-- **Question:** How can ConfigMaps and Secrets be used in your application?
+- **Question:** ### How can ConfigMaps and Secrets be used in your application?
 **Options:**
   - ✅ They can be used to decouple configuration data from the application
   - ❌  They can be used to store data in a database
@@ -1796,7 +1796,7 @@
 #### Question 1
 - **Lesson:** Exploring Side-by-side Extensibility
 - **Type:** multiselect (Code: 3)
-- **Question:** Which of the following options are the main use cases to be covered using side-by-side extensibility?
+- **Question:** ### Which of the following options are the main use cases to be covered using side-by-side extensibility?
 **Options:**
   - ❌ Changing the colors of a standard UI.
   - ✅ Creating a new UI for the existing application.
@@ -1809,7 +1809,7 @@
 #### Question 2
 - **Lesson:** Exploring Side-by-side Extensibility
 - **Type:** truefalse (Code: 1)
-- **Question:** The SAP S/4HANA VDM helps you get data from SAP S/4HANA in a structured format.
+- **Question:** ### The SAP S/4HANA VDM helps you get data from SAP S/4HANA in a structured format.
 **Options:**
   - ✅ True
   - ❌ False
@@ -1820,7 +1820,7 @@
 #### Question 3
 - **Lesson:** Exploring Side-by-side Extensibility
 - **Type:** multiselect (Code: 3)
-- **Question:** Which of the following describes features of the SAP S/4HANA VDM?
+- **Question:** ### Which of the following describes features of the SAP S/4HANA VDM?
 **Options:**
   - ✅ Enriches entities with business semantics
   - ✅ Creates Smart UIs that are metadata driven
@@ -1833,7 +1833,7 @@
 #### Question 4
 - **Lesson:** Activating the APIs in SAP S/4HANA Cloud
 - **Type:** singleselect (Code: 2)
-- **Question:** Which SAP S/4HANA Cloud user type is used in API execution?
+- **Question:** ### Which SAP S/4HANA Cloud user type is used in API execution?
 **Options:**
   - ❌ Business user
   - ❌ Technical user
@@ -1850,7 +1850,7 @@
 #### Question 1
 - **Lesson:** Preparing your Development SDK and Environment
 - **Type:** multiselect (Code: 3)
-- **Question:** Which of the following are the technical features of the SAP Cloud SDK?
+- **Question:** ### Which of the following are the technical features of the SAP Cloud SDK?
 **Options:**
   - ✅ Resilience management
   - ✅ Caching management
@@ -1863,7 +1863,7 @@
 #### Question 2
 - **Lesson:** Preparing your Development SDK and Environment
 - **Type:** multiselect (Code: 3)
-- **Question:** Which two of the following are major parts of SAP Cloud SDK?
+- **Question:** ### Which two of the following are major parts of SAP Cloud SDK?
 **Options:**
   - ✅ A set of JAVA libraries
   - ❌ Maven
@@ -1876,7 +1876,7 @@
 #### Question 3
 - **Lesson:** Extending with the SAP Business Technology Platform
 - **Type:** singleselect (Code: 2)
-- **Question:** In Cloud Foundry, which attribute of an application reflects its original development language? 
+- **Question:** ### In Cloud Foundry, which attribute of an application reflects its original development language? 
 **Options:**
   - ❌ The Requested State.
   - ❌ The Space.
@@ -1889,7 +1889,7 @@
 #### Question 4
 - **Lesson:** SAP Cloud SDK and SAP Cloud Application Programming Model
 - **Type:** multiselect (Code: 3)
-- **Question:** What are some of the advantages of using SAP Cloud Application Programming Model for building enterprise grade services and applications ?
+- **Question:** ### What are some of the advantages of using SAP Cloud Application Programming Model for building enterprise grade services and applications ?
 **Options:**
   - ✅ Generic solutions for many recurring tasks
   - ✅ Developers can focus on business logic without having to worry about technical details
@@ -1902,7 +1902,7 @@
 #### Question 5
 - **Lesson:** OData Mock Service for Business Partner API of SAP S/4HANA Cloud
 - **Type:** multiselect (Code: 3)
-- **Question:** What are some of the limitations of the OData Mock Service for Business Partner API of SAP S/4HANA Cloud ?
+- **Question:** ### What are some of the limitations of the OData Mock Service for Business Partner API of SAP S/4HANA Cloud ?
 **Options:**
   - ✅ Performs almost no business validations
   - ❌ Create (POST) requests are not supported 
@@ -1920,7 +1920,7 @@
 #### Question 1
 - **Lesson:** Develop with SAP Cloud SDK for Java
 - **Type:** singleselect (Code: 2)
-- **Question:** You want to develop a Java EE application to be run in the SAP BTP. Which version of the Java language will you use? 
+- **Question:** ### You want to develop a Java EE application to be run in the SAP BTP. Which version of the Java language will you use? 
 **Options:**
   - ✅ 8
   - ❌ 11
@@ -1932,7 +1932,7 @@
 #### Question 2
 - **Lesson:** Develop with SAP Cloud SDK for Java
 - **Type:** multiselect (Code: 3)
-- **Question:** Which of the following are features of Spring?
+- **Question:** ### Which of the following are features of Spring?
 **Options:**
   - ✅ It allows you to run Web applications with one click within your development environment. 
   - ❌ It is provided in a Java and a JavaScript version. 
@@ -1946,7 +1946,7 @@
 #### Question 3
 - **Lesson:** Develop with SAP Cloud SDK for Java
 - **Type:** singleselect (Code: 2)
-- **Question:** What additional feature does the Java buildpack by SAP introduce, compared with the standard Cloud Foundry buildpack for Java? 
+- **Question:** ### What additional feature does the Java buildpack by SAP introduce, compared with the standard Cloud Foundry buildpack for Java? 
 **Options:**
   - ❌ Out-of-the-box integration with SAP HANA Cloud 
   - ✅ Containers for Apache TomEE
@@ -1959,7 +1959,7 @@
 #### Question 4
 - **Lesson:** Querying SAP APIs in a Java Program
 - **Type:** singleselect (Code: 2)
-- **Question:** You want to run a Java program on your laptop, accessing an API in the SAP API Business Hub sandbox. Which class do you use to simulate the destination service? 
+- **Question:** ### You want to run a Java program on your laptop, accessing an API in the SAP API Business Hub sandbox. Which class do you use to simulate the destination service? 
 **Options:**
   - ✅ MockUtil
   - ❌ DestinationAccessor
@@ -1971,7 +1971,7 @@
 #### Question 5
 - **Lesson:** Resilience and Caching
 - **Type:** singleselect (Code: 2)
-- **Question:** Name the design pattern that prevents application from making remote service calls if remote service call has failed too many times ? 
+- **Question:** ### Name the design pattern that prevents application from making remote service calls if remote service call has failed too many times ? 
 **Options:**
   - ❌ Timeouts
   - ❌ Bulkheads
@@ -1989,7 +1989,7 @@
 #### Question 1
 - **Lesson:** Develop with SAP Cloud SDK for JavaScript
 - **Type:** multiselect (Code: 3)
-- **Question:** You wish to develop an extension application for S/4HANA Cloud, written in JavaScript and running in the Cloud Foundry environment. Which tools do you install on your laptop?
+- **Question:** ### You wish to develop an extension application for S/4HANA Cloud, written in JavaScript and running in the Cloud Foundry environment. Which tools do you install on your laptop?
 **Options:**
   - ✅ Node.js
   - ❌ Maven
@@ -2003,7 +2003,7 @@
 #### Question 2
 - **Lesson:** Querying SAP APIs in JavaScript or TypeScript
 - **Type:** multiselect (Code: 3)
-- **Question:** Which websites provide the reference documentation of the SAP Cloud SDK for JavaScript/TypeScript?
+- **Question:** ### Which websites provide the reference documentation of the SAP Cloud SDK for JavaScript/TypeScript?
 **Options:**
   - ✅ help.sap.com
   - ❌ api.sap.com
@@ -2017,7 +2017,7 @@
 #### Question 3
 - **Lesson:** Build Resilient Applications with the SAP Cloud SDK for JavaScript
 - **Type:** multiselect (Code: 3)
-- **Question:** What does resilience of SAP Cloud SDK helps you to do in your application?
+- **Question:** ### What does resilience of SAP Cloud SDK helps you to do in your application?
 **Options:**
   - ✅ Automatically retry failed requests.
   - ✅ Set timeouts.
@@ -2036,7 +2036,7 @@
 #### Question 1
 - **Lesson:** Introducing the Multi-target Application
 - **Type:** singleselect (Code: 2)
-- **Question:** Which tool do you use to build an MTA?
+- **Question:** ### Which tool do you use to build an MTA?
 **Options:**
   - ✅ mbt
   - ❌ Maven
@@ -2049,7 +2049,7 @@
 #### Question 2
 - **Lesson:** Working with the Mta.yaml File
 - **Type:** singleselect (Code: 2)
-- **Question:** In the mta.yaml file, which statements are used to exchange configuration properties between modules?
+- **Question:** ### In the mta.yaml file, which statements are used to exchange configuration properties between modules?
 **Options:**
   - ❌ Exports and imports.
   - ❌ Sends and receives.
@@ -2067,7 +2067,7 @@
 #### Question 1
 - **Lesson:** Explaining the Benefits of the SAP BTP, Cloud Foundry Runtime
 - **Type:** singleselect (Code: 2)
-- **Question:** How does SAP BTP, Cloud Foundry runtime support developers in application development?
+- **Question:** ### How does SAP BTP, Cloud Foundry runtime support developers in application development?
 **Options:**
   - ❌ By providing exclusive support for CAP development only.
   - ✅ By offering broad programming language support and a simplified developer experience, including "code-to-container" packaging.
@@ -2079,7 +2079,7 @@
 #### Question 2
 - **Lesson:** Describing the Cloud Foundry Runtime Architecture
 - **Type:** singleselect (Code: 2)
-- **Question:** In Cloud Foundry on SAP BTP, which term refers to the top-level container that groups spaces and users?
+- **Question:** ### In Cloud Foundry on SAP BTP, which term refers to the top-level container that groups spaces and users?
 **Options:**
   - ❌ Application
   - ❌ Service
@@ -2092,7 +2092,7 @@
 #### Question 3
 - **Lesson:** Describing the Cloud Foundry Runtime Architecture
 - **Type:** singleselect (Code: 2)
-- **Question:** What is the primary function of organizations in Cloud Foundry?
+- **Question:** ### What is the primary function of organizations in Cloud Foundry?
 **Options:**
   - ❌ To deploy individual applications.
   - ✅ To manage access control and resource quotas across spaces.
@@ -2105,7 +2105,7 @@
 #### Question 4
 - **Lesson:** Describing the Cloud Foundry Runtime Architecture
 - **Type:** singleselect (Code: 2)
-- **Question:** How are spaces used in SAP BTP, Cloud Foundry runtime?
+- **Question:** ### How are spaces used in SAP BTP, Cloud Foundry runtime?
 **Options:**
   - ❌ To group organizations with similar purposes.
   - ❌ To define global quotas for resources.
@@ -2118,7 +2118,7 @@
 #### Question 5
 - **Lesson:** Explaining the Key Concepts of SAP BTP, Cloud Foundry Runtime
 - **Type:** singleselect (Code: 2)
-- **Question:** What is the role of buildpacks in Cloud Foundry?
+- **Question:** ### What is the role of buildpacks in Cloud Foundry?
 **Options:**
   - ✅ Buildpacks are used to build a container image (droplet) in the staging process of Cloud Foundry.
   - ❌ Buildpacks are used to create service instances.
@@ -2131,7 +2131,7 @@
 #### Question 6
 - **Lesson:** Explaining the Key Concepts of SAP BTP, Cloud Foundry Runtime
 - **Type:** singleselect (Code: 2)
-- **Question:** How are services integrated into applications in Cloud Foundry?
+- **Question:** ### How are services integrated into applications in Cloud Foundry?
 **Options:**
   - ❌ Through the Cloud Controller API.
   - ❌ Through the Cloud Foundry CLI.
@@ -2144,7 +2144,7 @@
 #### Question 7
 - **Lesson:** Explaining the Key Concepts of SAP BTP, Cloud Foundry Runtime
 - **Type:** singleselect (Code: 2)
-- **Question:** What is the purpose of service bindings in Cloud Foundry?
+- **Question:** ### What is the purpose of service bindings in Cloud Foundry?
 **Options:**
   - ❌ To create service instances.
   - ❌ To manage containers.
@@ -2157,7 +2157,7 @@
 #### Question 8
 - **Lesson:** Setting up SAP BTP, Cloud Foundry Runtime
 - **Type:** singleselect (Code: 2)
-- **Question:** What do entitlements in SAP BTP represent?
+- **Question:** ### What do entitlements in SAP BTP represent?
 **Options:**
   - ❌ The maximum number of users allowed in a subaccount.
   - ✅ The rights to provision and consume specific SAP BTP services.
@@ -2170,7 +2170,7 @@
 #### Question 9
 - **Lesson:** Interacting with the SAP BTP, Cloud Foundry runtime via the CF CLI
 - **Type:** singleselect (Code: 2)
-- **Question:** What is the purpose of the CF CLI?
+- **Question:** ### What is the purpose of the CF CLI?
 **Options:**
   - ✅ To manage a Cloud Foundry instance.
   - ❌ To manage a Kubernetes cluster.
@@ -2183,7 +2183,7 @@
 #### Question 10
 - **Lesson:** Interacting with the SAP BTP, Cloud Foundry runtime via the CF CLI
 - **Type:** singleselect (Code: 2)
-- **Question:** What is the purpose of CF CLI plugins?
+- **Question:** ### What is the purpose of CF CLI plugins?
 **Options:**
   - ❌ To overwrite the CF CLI
   - ❌ To replace the CF CLI
@@ -2201,7 +2201,7 @@
 #### Question 1
 - **Lesson:** Designing and Running your Application in SAP BTP, Cloud Foundry Runtime
 - **Type:** singleselect (Code: 2)
-- **Question:** What is the recommended approach for handling file storage in Cloud Foundry apps?
+- **Question:** ### What is the recommended approach for handling file storage in Cloud Foundry apps?
 **Options:**
   - ❌ Write files to the local file system.
   - ✅ Utilize SAP BTP services.
@@ -2214,7 +2214,7 @@
 #### Question 2
 - **Lesson:** Designing and Running your Application in SAP BTP, Cloud Foundry Runtime
 - **Type:** singleselect (Code: 2)
-- **Question:** How can developers ensure consistent cookie behavior across apps in shared domains?
+- **Question:** ### How can developers ensure consistent cookie behavior across apps in shared domains?
 **Options:**
   - ❌ Set cookies at the lowest available domain.
   - ✅ Set cookies at the highest available domain.
@@ -2227,7 +2227,7 @@
 #### Question 3
 - **Lesson:** Designing and Running your Application in SAP BTP, Cloud Foundry Runtime
 - **Type:** singleselect (Code: 2)
-- **Question:** Which file defines the components and interdependencies of a multitarget application (MTA)?
+- **Question:** ### Which file defines the components and interdependencies of a multitarget application (MTA)?
 **Options:**
   - ✅ mta.yaml
   - ❌ mtad.yaml
@@ -2240,7 +2240,7 @@
 #### Question 4
 - **Lesson:** Designing and Running your Application in SAP BTP, Cloud Foundry Runtime
 - **Type:** singleselect (Code: 2)
-- **Question:** Which approach automatically creates both the development descriptor mta.yaml and the deployment descriptor mtad.yamlfor MTAs?
+- **Question:** ### Which approach automatically creates both the development descriptor mta.yaml and the deployment descriptor mtad.yamlfor MTAs?
 **Options:**
   - ✅ Using SAP Web IDE Full-Stack.
   - ❌ Using Business Application Studio.
@@ -2258,7 +2258,7 @@
 #### Question 1
 - **Lesson:** Performing the Deployment Process in SAP BTP, Cloud Foundry Runtime
 - **Type:** singleselect (Code: 2)
-- **Question:** Which command is used to deploy an application using the Cloud Foundry CLI?
+- **Question:** ### Which command is used to deploy an application using the Cloud Foundry CLI?
 **Options:**
   - ❌ cf deploy
   - ✅ cf push
@@ -2271,7 +2271,7 @@
 #### Question 2
 - **Lesson:** Performing the Deployment Process in SAP BTP, Cloud Foundry Runtime
 - **Type:** singleselect (Code: 2)
-- **Question:** What's the advantage of using SAP BTP cockpit for deployment?
+- **Question:** ### What's the advantage of using SAP BTP cockpit for deployment?
 **Options:**
   - ❌ It requires detailed command-line knowledge.
   - ❌ It is only suitable for technical users.
@@ -2284,7 +2284,7 @@
 #### Question 3
 - **Lesson:** Exploring Routing and Networking in SAP BTP, Cloud Foundry Runtime
 - **Type:** singleselect (Code: 2)
-- **Question:** What's the primary role of the Gorouter in Cloud Foundry?
+- **Question:** ### What's the primary role of the Gorouter in Cloud Foundry?
 **Options:**
   - ❌ It manages the deployment of applications.
   - ❌ It controls the scaling of application instances.
@@ -2296,7 +2296,7 @@
 #### Question 4
 - **Lesson:** Exploring Routing and Networking in SAP BTP, Cloud Foundry Runtime
 - **Type:** singleselect (Code: 2)
-- **Question:** How can you create a custom route in Cloud Foundry?
+- **Question:** ### How can you create a custom route in Cloud Foundry?
 **Options:**
   - ❌ Using the cf create-route command.
   - ✅ Using the cf map-route command.
@@ -2308,7 +2308,7 @@
 #### Question 5
 - **Lesson:** Deploying Your First Application
 - **Type:** singleselect (Code: 2)
-- **Question:** What does the staging process in Cloud Foundry involve?
+- **Question:** ### What does the staging process in Cloud Foundry involve?
 **Options:**
   - ✅ Compiling the application.
   - ❌ Running the application.
@@ -2326,7 +2326,7 @@
 #### Question 1
 - **Lesson:** Discovering Observability and Monitoring in SAP BTP, Cloud Foundry Runtime
 - **Type:** singleselect (Code: 2)
-- **Question:** What's the primary purpose of audit events in Cloud Foundry?
+- **Question:** ### What's the primary purpose of audit events in Cloud Foundry?
 **Options:**
   - ❌ To bill for resource usage.
   - ✅ To monitor interactions with resources.
@@ -2339,7 +2339,7 @@
 #### Question 2
 - **Lesson:** Discovering Observability and Monitoring in SAP BTP, Cloud Foundry Runtime
 - **Type:** singleselect (Code: 2)
-- **Question:** What's the main role of the Loggregator in SAP BTP, Cloud Foundry runtime?
+- **Question:** ### What's the main role of the Loggregator in SAP BTP, Cloud Foundry runtime?
 **Options:**
   - ❌ To deploy applications.
   - ✅ To collect and push logs into the Firehose data stream.
@@ -2352,7 +2352,7 @@
 #### Question 3
 - **Lesson:** Discovering Observability and Monitoring in SAP BTP, Cloud Foundry Runtime
 - **Type:** singleselect (Code: 2)
-- **Question:** Which of the following is NOT a data type collected for observability in SAP BTP, Cloud Foundry runtime?
+- **Question:** ### Which of the following is NOT a data type collected for observability in SAP BTP, Cloud Foundry runtime?
 **Options:**
   - ❌ Logs
   - ❌ Metrics
@@ -2365,7 +2365,7 @@
 #### Question 4
 - **Lesson:** Discovering Observability and Monitoring in SAP BTP, Cloud Foundry Runtime
 - **Type:** singleselect (Code: 2)
-- **Question:** Which command is used to access real-time logs in Cloud Foundry?
+- **Question:** ### Which command is used to access real-time logs in Cloud Foundry?
 **Options:**
   - ❌ cf push
   - ✅ cf logs
@@ -2378,7 +2378,7 @@
 #### Question 5
 - **Lesson:** Discovering Observability and Monitoring in SAP BTP, Cloud Foundry Runtime
 - **Type:** singleselect (Code: 2)
-- **Question:** What is the default retention period for Cloud Foundry events in SAP BTP?
+- **Question:** ### What is the default retention period for Cloud Foundry events in SAP BTP?
 **Options:**
   - ❌ 7 days
   - ✅  14 days
@@ -2391,7 +2391,7 @@
 #### Question 6
 - **Lesson:** Discovering Observability and Monitoring in SAP BTP, Cloud Foundry Runtime
 - **Type:** singleselect (Code: 2)
-- **Question:** Which type of health check in Cloud Foundry verifies that an application instance is active and running?
+- **Question:** ### Which type of health check in Cloud Foundry verifies that an application instance is active and running?
 **Options:**
   - ❌ Readiness Check
   - ✅ Liveness Check
@@ -2404,7 +2404,7 @@
 #### Question 7
 - **Lesson:** Discovering Observability and Monitoring in SAP BTP, Cloud Foundry Runtime
 - **Type:** singleselect (Code: 2)
-- **Question:** How are custom metrics typically collected in Cloud Foundry?
+- **Question:** ### How are custom metrics typically collected in Cloud Foundry?
 **Options:**
   - ✅ Using third-party monitoring systems like Prometheus
   - ❌  Through the Cloud Foundry CLI
@@ -2417,7 +2417,7 @@
 #### Question 8
 - **Lesson:** Implementing Scaling Capabilities in SAP BTP, Cloud Foundry Runtime
 - **Type:** singleselect (Code: 2)
-- **Question:** What's the process of adding more instances to support your application in order to handle increased load called?
+- **Question:** ### What's the process of adding more instances to support your application in order to handle increased load called?
 **Options:**
   - ❌ Vertical scaling
   - ✅ Horizontal scaling
@@ -2430,7 +2430,7 @@
 #### Question 9
 - **Lesson:** Implementing Scaling Capabilities in SAP BTP, Cloud Foundry Runtime
 - **Type:** singleselect (Code: 2)
-- **Question:** What is the maximum memory you can allocate to an application instance in the SAP BTP, Cloud Foundry Runtime environment?
+- **Question:** ### What is the maximum memory you can allocate to an application instance in the SAP BTP, Cloud Foundry Runtime environment?
 **Options:**
   - ❌ 6 GB
   - ❌ 8 GB
@@ -2443,7 +2443,7 @@
 #### Question 10
 - **Lesson:** Implementing Scaling Capabilities in SAP BTP, Cloud Foundry Runtime
 - **Type:** singleselect (Code: 2)
-- **Question:** What feature of the Application Autoscaler service adjusts the number of application instances automatically based on real-time application performance metrics?
+- **Question:** ### What feature of the Application Autoscaler service adjusts the number of application instances automatically based on real-time application performance metrics?
 **Options:**
   - ❌ Scheduled Scaling
   - ❌ RESTful APIs
@@ -2456,7 +2456,7 @@
 #### Question 11
 - **Lesson:** Using the Application Autoscaler to Manage Your Workload
 - **Type:** singleselect (Code: 2)
-- **Question:** In the exercise Scale Cloud Foundry Applications with Application Autoscaler, which instruction is used to attach the autoscaler and scaling policy with the application?
+- **Question:** ### In the exercise Scale Cloud Foundry Applications with Application Autoscaler, which instruction is used to attach the autoscaler and scaling policy with the application?
 **Options:**
   - ❌ cf bind-service cloud-foundry-srv my-autoscaler -c cpu_scaling_policy.json
   - ✅ cf bind-service hello-cloud-foundry-srv my-autoscaler-service -c cpu_scaling_policy.json
@@ -2468,7 +2468,7 @@
 #### Question 12
 - **Lesson:** Handling Updates
 - **Type:** singleselect (Code: 2)
-- **Question:** Which deployment strategy in Cloud Foundry involves gradually replacing instances of the previous version with the new version? Which option do you choose?
+- **Question:** ### Which deployment strategy in Cloud Foundry involves gradually replacing instances of the previous version with the new version? Which option do you choose?
 **Options:**
   - ❌ Blue-Green Deployment
   - ✅ Rolling Deployment
@@ -2481,7 +2481,7 @@
 #### Question 13
 - **Lesson:** Handling Updates
 - **Type:** singleselect (Code: 2)
-- **Question:** What's the purpose of the Blue-Green deployment strategy in Cloud Foundry? Which option do you choose?
+- **Question:** ### What's the purpose of the Blue-Green deployment strategy in Cloud Foundry? Which option do you choose?
 **Options:**
   - ❌ To automate application deployments.
   - ✅ To minimize downtime during application updates.
@@ -2493,7 +2493,7 @@
 #### Question 14
 - **Lesson:** Implementing Blue-Green Deployment with SAP BTP, Cloud Foundry Runtime for Zero Downtime Updates
 - **Type:** singleselect (Code: 2)
-- **Question:** Which command is used to check, if the change from the Blue to the Green applications took place?
+- **Question:** ### Which command is used to check, if the change from the Blue to the Green applications took place?
 **Options:**
   - ❌ cf check
   - ❌ cf check blue-green
@@ -2505,7 +2505,7 @@
 #### Question 15
 - **Lesson:** Mastering Cloud Foundry Application Lifecycle Events
 - **Type:** singleselect (Code: 2)
-- **Question:** What is the primary purpose of the cf restart-app-instancecommand? 
+- **Question:** ### What is the primary purpose of the cf restart-app-instancecommand? 
 **Options:**
   - ❌ To update the application code.
   - ❌ To shut down the application gracefully.
@@ -2517,7 +2517,7 @@
 #### Question 16
 - **Lesson:** Mastering Cloud Foundry Application Lifecycle Events
 - **Type:** singleselect (Code: 2)
-- **Question:** If an application needs to be completely redeployed due to code changes, which Cloud Foundry command should be used?
+- **Question:** ### If an application needs to be completely redeployed due to code changes, which Cloud Foundry command should be used?
 **Options:**
   - ❌ cf restart 
   - ✅ cf push 
@@ -2529,7 +2529,7 @@
 #### Question 17
 - **Lesson:** Mastering Cloud Foundry Application Lifecycle Events
 - **Type:** singleselect (Code: 2)
-- **Question:** What is the goal of the evacuation process in Cloud Foundry?
+- **Question:** ### What is the goal of the evacuation process in Cloud Foundry?
 **Options:**
   - ❌ To update the application's buildpack.
   - ✅ To minimize downtime during VM maintenance.
@@ -2546,7 +2546,7 @@
 #### Question 1
 - **Lesson:** Expanding Your Horizons in SAP BTP, Cloud Foundry Runtime
 - **Type:** singleselect (Code: 2)
-- **Question:** Which framework is recommended for developing enterprise-grade web applications in SAP BTP, Cloud Foundry runtime?
+- **Question:** ### Which framework is recommended for developing enterprise-grade web applications in SAP BTP, Cloud Foundry runtime?
 **Options:**
   - ❌ React.js
   - ✅ SAPUI5
@@ -2558,7 +2558,7 @@
 #### Question 2
 - **Lesson:** Expanding Your Horizons in SAP BTP, Cloud Foundry Runtime
 - **Type:** singleselect (Code: 2)
-- **Question:** Which service in SAP BTP is used for managing user authentication and authorization?
+- **Question:** ### Which service in SAP BTP is used for managing user authentication and authorization?
 **Options:**
   - ❌ SAP AI Core
   - ✅ XSUAA
@@ -2570,7 +2570,7 @@
 #### Question 3
 - **Lesson:** Expanding Your Horizons in SAP BTP, Cloud Foundry Runtime
 - **Type:** singleselect (Code: 2)
-- **Question:** What is the key purpose of Disaster Recovery (DR) in cloud applications?
+- **Question:** ### What is the key purpose of Disaster Recovery (DR) in cloud applications?
 **Options:**
   - ❌ To automatically scale applications.
   - ❌ To provide detailed audit logs.
